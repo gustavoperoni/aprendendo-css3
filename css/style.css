@@ -1,0 +1,16 @@
+.azul {
+    color: blue;
+}
+
+#logo {
+    background-color: darkgrey;
+}
+
+#topo {
+    background-color: darkgrey;
+}
+
+.produto {
+    background-color: blueviolet;
+    padding: 10px;
+}
